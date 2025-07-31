@@ -213,11 +213,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 scroll">
+                <div class="col-lg-5 scroll" id="contact-form">
                     <div class="form border shadow p-4">
-                        <form action="" method="post">
+                        <form action="\KundanPro\Asia Investigation Services website\php\handle-contact.php" method="post">
                             <div class="heading mb-4 mt-3">
                                 <h4>Contact Us</h4>
+                            </div>
+                            <div class="alert-box">
+                                <?php
+                                if (isset($_GET['s'])) {
+                                    if ($_GET['s'] == 1) {
+                                        echo '<div class="alert alert-success" role="alert">Thank you for contacting us!</div>';
+                                    } else {
+                                        echo '<div class="alert alert-danger" role="alert">There is some problem,try again later.</div>';
+                                    }
+                                }
+                                ?>
                             </div>
                             <div class="mb-3 mt-3">
                                 <label for="name" class="form-label">Name</label>

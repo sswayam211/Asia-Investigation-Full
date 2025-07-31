@@ -87,7 +87,7 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
                                         <li class="nav-item">
-                                            <a class="nav-link" aria-current="page" href="/KundanPro/Asia%20Investigation%20Services%20website/index.php">Home</a>
+                                            <a class="nav-link active" aria-current="page" href="/KundanPro/Asia%20Investigation%20Services%20website/index.php">Home</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="/KundanPro/Asia%20Investigation%20Services%20website/pages/about.php">About Us</a>

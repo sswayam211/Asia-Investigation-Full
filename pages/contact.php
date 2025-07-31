@@ -6,9 +6,8 @@
         <div class="row align-items-center">
             <div class="col-md-6">
 
-                <p class="contact-details"><a href="tel:9084755375"><i class="fa-solid fa-phone me-3"></i>+91
-                        9084755375</a>,<a href="tel:8273460190">
-                        +91 8273460190</a></p>
+                <p class="contact-details"><a href="tel:9084755375"><i class="fa-solid fa-phone me-3"></i><span style="white-space: nowrap;">+91 90847 55375</span></a>,<a href="tel:8273460190">
+                        <span style="white-space: nowrap;">+91 82734 60190</span></a></p>
 
                 <p class="contact-details"><a href="mailto:asiyaassociate79@gmail.com"><i
                             class="fa-solid fa-envelope me-3"></i>asiyaassociate79@gmail.com</a></p>
@@ -19,7 +18,7 @@
             </div>
             <div class="col-md-6">
                 <div class="form border shadow p-4">
-                    <form action="" method="post">
+                    <form action="\KundanPro\Asia Investigation Services website\php\handle-contact.php" method="post">
                         <!-- <div class="heading mb-4 mt-3">
                                 <h4>Contact Us</h4>
                             </div> -->

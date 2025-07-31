@@ -67,7 +67,7 @@ li {
     position: absolute;
     height: 4px;
     width: 100px;
-    background: black;
+    background: #0079a1;
     border-radius: 18px;
     bottom: -5px;
     left: 16px;
@@ -78,14 +78,14 @@ li {
     position: absolute;
     height: 11px;
     width: 11px;
-    background: black;
+    background: #0079a1;
     border-radius: 50%;
     bottom: -8.5px;
     left: 0;
 }
 
 .about .heading::after {
-    background: white;
+    background: #0079a1;
 }
 
 .about .heading::before {
@@ -93,7 +93,7 @@ li {
     position: absolute;
     height: 11px;
     width: 11px;
-    background: white;
+    background: #0079a1;
     border-radius: 50%;
     bottom: -8.5px;
     left: 0;

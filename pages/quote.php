@@ -20,10 +20,10 @@
                 </div> -->
             <div class="col-md-6 m-auto">
                 <div class="form border shadow p-4">
-                    <form action="" method="post">
-                        <!-- <div class="heading mb-4 mt-3">
-                                <h4>Contact Us</h4>
-                            </div> -->
+                    <form action="\KundanPro\Asia Investigation Services website\php\handle-contact.php" method="post">
+                        <div class="heading mb-4 mt-3">
+                                <h4>Send a Quote</h4>
+                            </div>
                         <div class="mb-3 mt-3">
                             <label for="name" class="form-label">Name</label>
                             <input type="text" class="form-control" id="name" placeholder="" name="name">
