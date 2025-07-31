@@ -11,8 +11,7 @@
                     <div class="content">
                         Asia Investigation Services provides professional investigation and survey services
                         including background checks, insurance investigation, legal support, and corporate
-                        verification.... <span style="font-size: 10px;"><a href="/KundanPro/Asia%20Investigation%20Services%20website/pages\about.php">Read
-                                More</a></span>
+                        verification.... <span style="font-size: 10px;"><a href="/KundanPro/Asia%20Investigation%20Services%20website/pages\about.php">Explore</a></span>
                     </div>
                 </div>
             </div>

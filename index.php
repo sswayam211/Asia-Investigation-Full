@@ -75,8 +75,7 @@
                                 methods, we deliver clear, reliable reports to support smart business decisions and
                                 safeguard your company from risk.</p>
                             <div class="more-button">
-                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#corporate-investigation"><button class="button">Read
-                                        More</button></a>
+                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#corporate-investigation"><button class="button">Explore</button></a>
                             </div>
                         </div>
                     </div>
@@ -93,7 +92,7 @@
                                 professionally.</p>
                             <div class="more-button">
                                 <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#insurance-fraud-investigation"><button
-                                        class="button">Read More</button></a>
+                                        class="button">Explore</button></a>
                             </div>
                         </div>
                     </div>
@@ -109,8 +108,7 @@
                                 to ensure smooth legal processes and timely results—helping you stay focused on
                                 winning your case.</p>
                             <div class="more-button">
-                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#legal-support-services"><button class="button">Read
-                                        More</button></a>
+                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#legal-support-services"><button class="button">Explore</button></a>
                             </div>
                         </div>
                     </div>
@@ -125,8 +123,7 @@
                                 education, criminal records, and reference validation. With accurate and timely
                                 reports, we help you make safe and confident hiring decisions.</p>
                             <div class="more-button">
-                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#employee-background-check"><button class="button">Read
-                                        More</button></a>
+                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#employee-background-check"><button class="button">Explore</button></a>
                             </div>
                         </div>
                     </div>
@@ -141,8 +138,7 @@
                                 advanced tools and experienced investigators, we deliver clear visual proof while
                                 maintaining full confidentiality and legal compliance.</p>
                             <div class="more-button">
-                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#surveillance-services"><button class="button">Read
-                                        More</button></a>
+                                <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/service.php#surveillance-services"><button class="button">Explore</button></a>
                             </div>
                         </div>
                     </div>
@@ -177,11 +173,11 @@
                         </p>
                     </div>
                     <div class="more-button scroll">
-                        <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/about.php"><button class="button border">Read More</button></a>
+                        <a href="/KundanPro/Asia%20Investigation%20Services%20website/pages/about.php"><button class="button border">Explore</button></a>
                     </div>
                 </div>
                 <div class="col-lg-5 align-content-center scroll">
-                    <img class="img-fluid" src="images/banner-1.avif" alt="">
+                    <img class="img-fluid" src="images/banner-1.avif" alt="image">
                 </div>
             </div>
         </div>
@@ -257,28 +253,28 @@
     <section id="clients" class="">
         <div class="client-images py-2 d-flex justify-content-start align-items-center">
             <div class="img px-md-5 px-4">
-                <img src="images/client-Hdfc life insurance.png" alt="">
+                <img src="images/client-Hdfc life insurance.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-Icici Lombard insurance.png" alt="">
+                <img src="images/client-Icici Lombard insurance.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-Iffoco tokio insurance.png" alt="">
+                <img src="images/client-Iffoco tokio insurance.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-India first insurance company.png" alt="">
+                <img src="images/client-India first insurance company.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-New india insurance.png" alt="">
+                <img src="images/client-New india insurance.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-Niva bupa insurance.svg" alt="">
+                <img src="images/client-Niva bupa insurance.svg" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-Orientl insurance.png" alt="">
+                <img src="images/client-Orientl insurance.png" alt="image">
             </div>
             <div class="img px-md-5 px-4">
-                <img src="images/client-United india insurance.png" alt="">
+                <img src="images/client-United india insurance.png" alt="image">
             </div>
         </div>
     </section>

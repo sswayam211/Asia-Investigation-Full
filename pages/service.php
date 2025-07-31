@@ -9,7 +9,7 @@
         <div class="row">
 
             <div class="col-md-3 mb-4">
-                <img class="img-fluid" src="../images/CI-2.png" alt="">
+                <img class="img-fluid" src="../images/CI-2.png" alt="image">
             </div>
             <div class="col-md-9 mb-5" id="corporate-investigation">
                 <h3 class="mb-3">Corporate Investigation</h3>
@@ -33,12 +33,12 @@
                     meet the specific needs of your organization.</p>
             </div>
             <div class="col-md-3 mb-4">
-                <img class="img-fluid" src="../images/fraud-2.png" alt="">
+                <img class="img-fluid" src="../images/fraud-2.png" alt="image">
             </div>
 
 
             <div class="col-md-3 mb-4">
-                <img class="img-fluid" src="../images/LS-2.png" alt="">
+                <img class="img-fluid" src="../images/LS-2.png" alt="image">
             </div>
             <div class="col-md-9 mb-5" id="legal-support-services">
                 <h3 class="mb-3">Legal Support Services</h3>
@@ -62,12 +62,12 @@
                     ensuring that all operations are conducted ethically and legally.</p>
             </div>
             <div class="col-md-3 mb-4">
-                <img class="img-fluid" src="../images/employee-2.png" alt="">
+                <img class="img-fluid" src="../images/employee-2.png" alt="image">
             </div>
 
 
             <div class="col-md-3 mb-4">
-                <img class="img-fluid" src="../images/servalance-2.png" alt="">
+                <img class="img-fluid" src="../images/servalance-2.png" alt="image">
             </div>
             <div class="col-md-9 mb-5" id="surveillance-services">
                 <h3 class="mb-3">Surveillance Services</h3>
