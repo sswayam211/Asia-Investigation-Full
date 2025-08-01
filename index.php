@@ -228,11 +228,11 @@
                             </div>
                             <div class="mb-3 mt-3">
                                 <label for="name" class="form-label">Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="" name="name">
+                                <input type="text" class="form-control" id="name" placeholder="" name="name" required>
                             </div>
                             <div class="mb-3 mt-3">
                                 <label for="email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="email" placeholder="" name="email">
+                                <input type="email" class="form-control" id="email" placeholder="" name="email" required>
                             </div>
                             <div class="mb-3 mt-3">
                                 <label for="message" class="form-label">Message</label>

@@ -121,6 +121,15 @@
     } catch (err) {
         console.log(err);
     }
+
+
+    // form varidation 
+    // try {
+    //     let inputs = document.querySelector();
+
+    // } catch (err) {
+    //     console.log(err);
+    // }
 </script>
 </body>
 
