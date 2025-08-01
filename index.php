@@ -186,7 +186,7 @@
 
 
     <!-- testimonial section start  -->
-    <section id="testimonials mb-5">
+    <section id="testimonials mb-5" id="contact-form">
         <div class="container p-md-5 py-5 p-3">
             <div class="row">
                 <div class="col-lg-7 p-3 align-content-center">
@@ -209,7 +209,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 scroll" id="contact-form">
+                <div class="col-lg-5 scroll">
                     <div class="form border shadow p-4">
                         <form action="\KundanPro\Asia Investigation Services website\php\handle-contact.php" method="post">
                             <div class="heading mb-4 mt-3">

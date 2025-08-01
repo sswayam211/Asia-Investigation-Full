@@ -18,6 +18,17 @@
             </div>
             <div class="col-md-6">
                 <div class="form border shadow p-4">
+                    <div class="alert-box">
+                        <?php
+                        if (isset($_GET['s'])) {
+                            if ($_GET['s'] == 1) {
+                                echo '<div class="alert alert-success" role="alert">Thank you for contacting us!</div>';
+                            } else {
+                                echo '<div class="alert alert-danger" role="alert">There is some problem,try again later.</div>';
+                            }
+                        }
+                        ?>
+                    </div>
                     <form action="\KundanPro\Asia Investigation Services website\php\handle-contact.php" method="post">
                         <!-- <div class="heading mb-4 mt-3">
                                 <h4>Contact Us</h4>
